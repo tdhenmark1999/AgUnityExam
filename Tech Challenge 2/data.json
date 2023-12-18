@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "name": "men",
+        "total":212.9,
+        "australia": 12.84,
+        "ghana": 16.46,
+        "indonesia": 139.13,
+        "kenya": 27.32
+      },
+      {
+        "name": "women",
+        "total":212.9,
+        "australia": 12.94,
+        "ghana": 16.38,
+        "indonesia": 137.23,
+        "kenya": 27.66
+      },
+      {
+        "name": "youth",
+        "total":172.9,
+        "australia": 5.71,
+        "ghana": 14.62,
+        "indonesia": 82.96,
+        "kenya": 24.42
+      }
+    ]
+  }
+  

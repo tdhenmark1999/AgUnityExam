@@ -1,0 +1,60 @@
+body, html {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#app {
+    text-align: center;
+}
+
+#location-form {
+    margin-bottom: 20px;
+}
+
+#location-input {
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 2px;
+    border: 1px solid #333;
+}
+
+#weather-result {
+    border: 1px solid #ddd;
+    padding: 20px;
+    display: none; 
+    border-radius: 5px;
+
+}
+
+
+.btn__get_weather {
+    padding: 10px;
+    background-color: black;
+    color:#fff;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.text-weather{
+    font-size: 18px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.text-temp{
+    font-size: 14px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.text-condition{
+    font-size: 14px;
+    margin: 0px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
